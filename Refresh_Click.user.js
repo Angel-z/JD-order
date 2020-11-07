@@ -4,7 +4,7 @@
 // @version      0.01
 // @description  JD
 // @match        https://trade.jd.com/shopping/order/getPresalInfo.action?r=商品编号
-// @author      Angel
+// @author       Angel, Komaki
 // ==/UserScript==
 
 (function() {
